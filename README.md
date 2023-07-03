@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Yes, account look bad yet, but I think how make it beter😉
-
 Recently I made the demo version of project [Like-List](https://like-list.com), it's comfortable place for keeps bookmarks.
 
 The best projects I keep in private branch. On github I public only test projects or examples. 
