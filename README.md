@@ -7,7 +7,7 @@ The best projects I keep in private branch. On github I public only test project
 - 🌐 I left Russia after February 24, 2022.
 - 🐍 I'm a sole proprietor - [SS-Web](https://ss-web.ru).
 - 🤖 Most of the time I'm writing on JavaScript.
-- 🚀 I love pet-projects. Now I worked with startup [like-list.com](https://like-list.com).
+- 🚀 I love pet-projects. Now I worked with startup [like-list.com](https://like-list.com)/[likelist.pro](https://likelist.pro).
 - 📖 I have also written a book(Queen of seven mountains) and run a blog (in Russian): [k7g.ru](https://k7g.ru).
 - 📧 You can send me an email at [simon.lazarev@like-list.com](mailto:simon.lazarev@like-list.com).
 
